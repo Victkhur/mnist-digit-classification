@@ -49,3 +49,20 @@ The model consists of:
 ✔ Dropout – Reduces overfitting
 
 ✔ Softmax Layer – Outputs probabilities for 10 classes (digits 0-9)
+
+## 📊 Accuracy & Loss Graphs
+### Training vs. Validation Accuracy
+![image](https://github.com/user-attachments/assets/58de177e-5fbe-48b6-a883-6e6b6f47ef28)
+
+### Training vs. Validation Loss
+![image](https://github.com/user-attachments/assets/588b8cc4-e90e-43d3-886a-67817d31b4b1)
+
+
+🎯 Results
+| Model Version |	Test Accuracy |	Loss |
+| -------------| ------------ | --------- |
+| Baseline Model |	97.74%	| 0.0764 |
+| Tuned Model	| 98.03%	| 0.0636 |
+
+
+
