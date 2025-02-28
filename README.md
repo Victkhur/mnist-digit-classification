@@ -45,5 +45,7 @@ The model consists of:
 ✔ Dense Layers – Fully connected layers for learning patterns
 
 ✔ Batch Normalization – Normalizes activations to stabilize training
+
 ✔ Dropout – Reduces overfitting
+
 ✔ Softmax Layer – Outputs probabilities for 10 classes (digits 0-9)
