@@ -26,16 +26,8 @@ The goal is to train a neural network to accurately classify these digits.
 
 ---
 
-## 📂 Project Structure  
-```bash
-mnist-digit-classification/
-│── notebooks/                  # Jupyter notebooks (if applicable)
-│── results/                     # Accuracy reports & loss curves
-│── mnist_classification.py      # Main Python script
-│── hyperparameter_tuning.py     # Keras Tuner script for optimization
-│── requirements.txt             # Dependencies
-│── README.md                    # Project documentation
-```
+ADME.md                    # Project documentation
+
 
 ## ⚡ Model Architecture
 The model consists of:
