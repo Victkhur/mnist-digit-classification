@@ -50,11 +50,11 @@ The model consists of:
 ![image](https://github.com/user-attachments/assets/588b8cc4-e90e-43d3-886a-67817d31b4b1)
 
 
-🎯 Results
+## 🎯 Results
 | Model Version |	Test Accuracy |	Loss |
 | -------------| ------------ | --------- |
 | Baseline Model |	97.74%	| 0.0764 |
-| Tuned Model	| 98.03%	| 0.0636 |
+| Tuned Model	| 98.35%	| 0.0636 |
 
 
 
